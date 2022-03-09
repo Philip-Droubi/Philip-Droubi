@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Philip-Droubi
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning html-css-java
-- 💞️ I’m looking to collaborate on web design 
+- 👀 I’m interested in web design, Laravel and MySQL.
+- 🌱 I’m currently learning html-css-java-laravel php framework and SQL databases. 
+- 💞️ I’m looking to collaborate on web design and backend programming. 
 - 📫 How to reach me : mail me at:
      Philipp565dro@gmail.com 
+- 👉 Or via LinkedIn: 
+     https://www.linkedin.com/in/philip-droubi-10aa021ab
 
 
 <!---
