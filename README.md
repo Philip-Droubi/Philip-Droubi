@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philip-Droubi
+- 👋 Hi, I’m **@Philip-Droubi**
 - 👀 I’m interested in web design, Laravel and MySQL.
 - 🌱 I’m currently learning HTML-CSS-JavaScript-Laravel PHP framework and SQL databases. 
 - 💞️ I’m looking to collaborate on web design and backend programming. 
@@ -6,6 +6,7 @@
      Philipdroubi@gmail.com 
 - 👉 Or via LinkedIn: 
      https://www.linkedin.com/in/philip-droubi
+![](https://komarev.com/ghpvc/?username=Philip-Droubi&style=flat-square)
 
 
 <!---
