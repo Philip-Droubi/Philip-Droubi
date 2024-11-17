@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m **@Philip-Droubi**
-- 🏦 I'm a 5th year software engineering student at [Damascus University](https://en.wikipedia.org/wiki/Damascus_University).
+- 🏦 I'm a software engineering graduated from [Damascus University](https://en.wikipedia.org/wiki/Damascus_University).
 - ✨ I’m interested in web design, Laravel and MySQL.
 - 🌱 I’m currently learning React.js. 
 - 💞️ I’m looking to collaborate on Laravel backend projects.
